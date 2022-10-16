@@ -1,0 +1,41 @@
+#!csharp
+
+public bool isPallindrome(string canidate){
+    Console.WriteLine($"Checking palindrom: {canidate}");
+    Console.WriteLine($"djdjdjfdj");
+    char[] canidateArray = canidate.ToCharArray();
+    for(int i = 0; i < canidate.Length/2; i++){
+        Console.WriteLine($"i: {i}");
+        if(canidateArray[i]!= canidateArray[canidateArray.Length-1])
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+#!csharp
+
+public string LongestPalindrome(string s) {
+    string canidate = "";
+    // Pick which a potential candidate
+    // lets just go through the entire string
+    // pick a starting position
+    for(int startingPosition = 0; startingPosition < s.Length; startingPosition++){
+     // go through every possible ending position
+      for(int endingPosition = s.Length; endingPosition > startingPosition; endingPosition--){
+            // Check if this canidate is a pallindrom
+            int length = endingPosition -startingPosition;
+            
+            Console.WriteLine($"Checking canidate: {s.Substring(startingPosition,length)}");
+            if(canidate.Length < length && isPallindrome(s.Substring(startingPosition,length))){
+                canidate = s.Substring(startingPosition, length);
+            }
+        }
+    }
+    return canidate;
+}
+
+#!csharp
+
+Console.WriteLine(LongestPalindrome("aabbcc"));
