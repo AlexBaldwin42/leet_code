@@ -1,0 +1,15 @@
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.csproj.AssemblyReference.cache
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.AssemblyInfoInputs.cache
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.AssemblyInfo.cs
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.csproj.CoreCompileInputs.cache
+/home/alex/repos/leet_code/zigzag-converter/bin/Debug/net6.0/zigzag-converter
+/home/alex/repos/leet_code/zigzag-converter/bin/Debug/net6.0/zigzag-converter.deps.json
+/home/alex/repos/leet_code/zigzag-converter/bin/Debug/net6.0/zigzag-converter.runtimeconfig.json
+/home/alex/repos/leet_code/zigzag-converter/bin/Debug/net6.0/zigzag-converter.dll
+/home/alex/repos/leet_code/zigzag-converter/bin/Debug/net6.0/zigzag-converter.pdb
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.dll
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/refint/zigzag-converter.dll
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.pdb
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/zigzag-converter.genruntimeconfig.cache
+/home/alex/repos/leet_code/zigzag-converter/obj/Debug/net6.0/ref/zigzag-converter.dll
