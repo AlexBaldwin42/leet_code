@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alex/repos/leet_code/string_to_int/string_to_int.csproj": {}
+  },
+  "projects": {
+    "/home/alex/repos/leet_code/string_to_int/string_to_int.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex/repos/leet_code/string_to_int/string_to_int.csproj",
+        "projectName": "string_to_int",
+        "projectPath": "/home/alex/repos/leet_code/string_to_int/string_to_int.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/home/alex/repos/leet_code/string_to_int/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

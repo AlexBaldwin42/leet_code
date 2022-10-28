@@ -1,0 +1,15 @@
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.csproj.AssemblyReference.cache
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.AssemblyInfoInputs.cache
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.AssemblyInfo.cs
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.csproj.CoreCompileInputs.cache
+/home/alex/repos/leet_code/string_to_int/bin/Debug/net6.0/string_to_int
+/home/alex/repos/leet_code/string_to_int/bin/Debug/net6.0/string_to_int.deps.json
+/home/alex/repos/leet_code/string_to_int/bin/Debug/net6.0/string_to_int.runtimeconfig.json
+/home/alex/repos/leet_code/string_to_int/bin/Debug/net6.0/string_to_int.dll
+/home/alex/repos/leet_code/string_to_int/bin/Debug/net6.0/string_to_int.pdb
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.dll
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/refint/string_to_int.dll
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.pdb
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/string_to_int.genruntimeconfig.cache
+/home/alex/repos/leet_code/string_to_int/obj/Debug/net6.0/ref/string_to_int.dll
