@@ -1,9 +1,0 @@
-#!csharp
-
-public string Convert(string s, int numRows) {
-    string output = "";
-    
-
-
-    return output;
-}
