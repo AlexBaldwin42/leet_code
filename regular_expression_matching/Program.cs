@@ -16,46 +16,6 @@ Console.WriteLine("----------------------------------------");
 Console.WriteLine("Passed: "+ (true == IsMatch("ab",".*")).ToString());
 Console.WriteLine("Passed: "+ (true == IsMatch("mississippi","mis*is*p*.")).ToString());
 
-var newbuff = new CircularBuffer<int>();
-class CircularBuffer<T>
-{
-	  Nullable<T>[] buffer;
-		int position =0;  
-    public CircularBuffer(int capacity)
-    {
-				buffer =new T?[capacity];
-                buffer[0].Value;
-    }
-
-
-    public T Read()
-    {
-			int output = buffer[position].Value;
-				if(position == capacity){
-					position = 0;
-				}else{
-					position++;
-				}
-				return output.Value; 
-    }
-
-    public void Write(T value)
-    {
-				if(buffer[position].HasValue )
-        throw new Exception("buffer full");
-    }
-
-    public void Overwrite(T value)
-    {
-			buffer[position] = (int)value;
-    }
-
-    public void Clear()
-    {
-		
-			buffer.ForEach(i=> i = null);			
-    }
-}
 
  bool IsMatch(string s, string p)
 {
